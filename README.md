@@ -6,13 +6,13 @@ Professional Pine Script indicators for advanced market analysis
 - **Category**: Breadth Indicators
 - **Tags**: `arbitrage` `triangular-arbitrage` `profit-opportunity`
 - **Status**: ✅ Production Ready
-[View Code] [https://www.tradingview.com/script/tAPbBiuf-Multi-Asset-Arbitrage-Calculator/](https://www.tradingview.com/script/jmjvD08h-Multi-Asset-Volume-Comparator/)
+[View Code] [https://www.tradingview.com/script/tAPbBiuf-Multi-Asset-Arbitrage-Calculator/]
 
 ### Multi-Asset Volume Calculator
 - **Category**: Volume Indicators
 - **Tags**: `volume-analysis` `cross-market` `arbitrage-detection` `liquidity-analysis`
 - **Status**: ✅ Production Ready
-[View Code] https://www.tradingview.com/script/tAPbBiuf-Multi-Asset-Arbitrage-Calculator/
+[View Code] https://www.tradingview.com/script/jmjvD08h-Multi-Asset-Volume-Comparator/
 
 - ## 📊 Performance Metrics
 - **Indicators**: 1+ (growing)
