@@ -19,4 +19,4 @@
 ## 📧 Contact
 - **TradingView**: [@UnrektFUD](https://www.tradingview.com/u/UnrektFUD/)
 - **Email**: mjung1@gmx.com
-- **LinkedIn**: [Ton Profil] (ajoute le lien)
+
