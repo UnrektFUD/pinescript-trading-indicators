@@ -1,23 +1,22 @@
-# pinescript-trading-indicators
-Professional Pine Script indicators for advanced market analysis
-## 🎯 Featured Indicators
+# PineScript Trading Indicators for Arbitrage
+**Open-source tools to detect cross-market inefficiencies** (Binance, Kraken, Bybit).
 
-### Multi-Asset Arbitrage Calculator
-- **Category**: Breadth Indicators
-- **Tags**: `arbitrage` `triangular-arbitrage` `profit-opportunity`
-- **Status**: ✅ Production Ready
-[View Code] https://www.tradingview.com/script/XX4BuHug-Multi-Asset-Arbitrage-Calculator/
+## 🔍 Featured Indicators
+| Indicator                     | Use Case                          | Exchange Support       | TradingView Link                          |
+|-------------------------------|-----------------------------------|-------------------------|-------------------------------------------|
+| **Multi-Asset Arbitrage**     | Triangular arbitrage opportunities | Binance/Kraken/Bybit   | [View Code](https://www.tradingview.com/script/XX4BuHug/) |
+| **Volume Comparator**         | Liquidity divergence detection    | All major exchanges    | [View Code](https://www.tradingview.com/script/jmjvD08h/) |
 
-### Multi-Asset Volume Calculator
-- **Category**: Volume Indicators
-- **Tags**: `volume-analysis` `cross-market` `arbitrage-detection` `liquidity-analysis`
-- **Status**: ✅ Production Ready
-[View Code] https://www.tradingview.com/script/jmjvD08h-Multi-Asset-Volume-Comparator/
+## 📈 Why It Matters
+- **Arbitrage Calculator**: Identifies **0.3%-1.5% spreads** between correlated assets (BTC/ETH/USDT pairs).
+- **Volume Comparator**: Flags **liquidity mismatches** before they disappear (critical for manual arbitrage).
 
-- ## 📊 Performance Metrics
-- **Indicators**: 1+ (growing)
-- **Total Lines**: 500+
+## 🛠 How to Use
+1. Copy the PineScript code.
+2. Paste into TradingView’s Pine Editor.
+3. Set alerts for **spread > 0.5%** or **volume divergence > 20%**.
 
 ## 📧 Contact
-- **TradingView**: @UnrektFUD
+- **TradingView**: [@UnrektFUD](https://www.tradingview.com/u/UnrektFUD/)
 - **Email**: mjung1@gmx.com
+- **LinkedIn**: [Ton Profil] (ajoute le lien)
